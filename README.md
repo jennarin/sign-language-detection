@@ -1,2 +1,6 @@
-"# sign-language-detection" 
-"# sign-language-detection" 
+MINI PROJECT
+SIGN LANGUAGE DETECTION
+
+```
+  pip install requirements.txt
+```
